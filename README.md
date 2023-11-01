@@ -21,7 +21,7 @@ To install and run the 30 Days, 30 Soccer Players app, follow these steps:
 ## Usage
 The 30 Days, 30 Soccer Players app is easy to use. Upon launching the app, you will be presented with a list of soccer players. Click on a player's card to expand and view more details, including information about their team, date of birth, and a fun fact about them.
 
-<width="200" alt="image" src="https://github.com/KingLiban/30SoccerPlayersApp/assets/113272384/f7d20763-4634-4dca-867e-20d02b88fcb5">
+<img width="200" alt="image" src="https://github.com/KingLiban/30SoccerPlayersApp/assets/113272384/5ce68949-7f7e-4d2f-945e-901745b9ede2">
 
 
 Explore the details of different players, learn interesting facts, and enjoy your journey through the world of soccer.
