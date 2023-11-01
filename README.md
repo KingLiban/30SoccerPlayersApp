@@ -6,8 +6,6 @@
 ## Table of Contents
 - [#Installation](#installation)
 - [#Usage](#usage)
-- [#Contributing](#contributing)
-- [#License](#license)
 
 ## Installation
 To install and run the 30 Days, 30 Soccer Players app, follow these steps:
@@ -25,3 +23,5 @@ The 30 Days, 30 Soccer Players app is easy to use. Upon launching the app, you w
 
 
 Explore the details of different players, learn interesting facts, and enjoy your journey through the world of soccer.
+
+Made by Liban.
