@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">30 Days, 30 Soccer Players</string>
+    <string name="player_name_1">Lionel Messi</string>
+    <string name="player_team_1">Paris Saint-Germain</string>
+    <string name="player_dob_1">1987-current</string>
+    <string name="player_fun_fact_1">Has won a record 7 Ballon d\'Or awards</string>
+
+    <string name="player_name_2">Cristiano Ronaldo</string>
+    <string name="player_team_2">Manchester United</string>
+    <string name="player_dob_2">1985-current</string>
+    <string name="player_fun_fact_2">Holds the record for most goals (140) in UEFA Champions League history</string>
+
+    <string name="player_name_3">Kylian Mbappé</string>
+    <string name="player_team_3">Paris Saint-Germain</string>
+    <string name="player_dob_3">1998-current</string>
+    <string name="player_fun_fact_3">Youngest player to score in a FIFA World Cup final (age 19 in 2018)</string>
+
+    <string name="player_name_4">Erling Haaland</string>
+    <string name="player_team_4">Manchester City</string>
+    <string name="player_dob_4">2000-current</string>
+    <string name="player_fun_fact_4">Scored 9 UEFA Champions League goals in his first 6 appearances, fastest to do so.</string>
+
+    <string name="player_name_5">Neymar Júnior</string>
+    <string name="player_team_5">Paris Saint-Germain</string>
+    <string name="player_dob_5">1992-current</string>
+    <string name="player_fun_fact_5">Brazil\'s third highest goalscorer of all time behind only Pelé and Ronaldo</string>
+
+    <string name="player_name_6">Karim Benzema</string>
+    <string name="player_team_6">Real Madrid</string>
+    <string name="player_dob_6">1987-current</string>
+    <string name="player_fun_fact_6">Only French player to win 4 UEFA Champions League titles</string>
+
+    <string name="player_name_7">Sergio Ramos García</string>
+    <string name="player_team_7">Paris Saint-Germain</string>
+    <string name="player_dob_7">1986-current</string>
+    <string name="player_fun_fact_7">Has made the most appearances for Real Madrid (671 games)</string>
+
+    <string name="player_name_8">Pelé</string>
+    <string name="player_team_8">Santos</string>
+    <string name="player_dob_8">1940-2022</string>
+    <string name="player_fun_fact_8">Only player to win 3 FIFA World Cups (1958, 1962, 1970)</string>
+
+    <string name="player_name_9">Diego Maradona</string>
+    <string name="player_team_9">Napoli</string>
+    <string name="player_dob_9">1960–2020</string>
+    <string name="player_fun_fact_9">Captained Argentina to World Cup victory in 1986, won Golden Ball award</string>
+
+    <string name="player_name_10">Luka Modrić</string>
+    <string name="player_team_10">Real Madrid</string>
+    <string name="player_dob_10">1985-current</string>
+    <string name="player_fun_fact_10">Won Ballon d\'Or in 2018, breaking Messi/Ronaldo dominance</string>
+
+    <string name="player_name_11">Harry Kane</string>
+    <string name="player_team_11">Tottenham Hotspur</string>
+    <string name="player_dob_11">1993-current</string>
+    <string name="player_fun_fact_11">Only English player to win Premier League Golden Boot 3 times</string>
+
+    <string name="player_name_12">Son Heung-min</string>
+    <string name="player_team_12">Tottenham Hotspur</string>
+    <string name="player_dob_12">1992-current</string>
+    <string name="player_fun_fact_12">First Asian player to win Premier League Golden Boot (2020–21 season)</string>
+
+    <string name="player_name_13">João Cancelo</string>
+    <string name="player_team_13">Manchester City</string>
+    <string name="player_dob_13">1994-current</string>
+    <string name="player_fun_fact_13">Named in UEFA Euro 2020 Team of the Tournament at right-back</string>
+
+    <string name="player_name_14">Hakim Ziyech</string>
+    <string name="player_team_14">Chelsea</string>
+    <string name="player_dob_14">1993-current</string>
+    <string name="player_fun_fact_14">First Moroccan player to reach UEFA Champions League semi–final (2018–19)</string>
+
+    <string name="player_name_15">Achraf Hakimi Mouh</string>
+    <string name="player_team_15">Paris Saint-Germain</string>
+    <string name="player_dob_15">1998-current</string>
+    <string name="player_fun_fact_15">Only Moroccan player to win the FIFA Club World Cup (2020 with Bayern)</string>
+
+    <string name="player_name_16">Vinícius Júnior</string>
+    <string name="player_team_16">Real Madrid</string>
+    <string name="player_dob_16">2000-current</string>
+    <string name="player_fun_fact_16">Youngest player to score in a UEFA Champions League semi-final (age 18 in 2019)</string>
+
+    <string name="player_name_17">Jude Bellingham</string>
+    <string name="player_team_17">Borussia Dortmund</string>
+    <string name="player_dob_17">2003-current</string>
+    <string name="player_fun_fact_17">Youngest player to appear for England at a major tournament (Euro 2020, age 17)</string>
+
+    <string name="player_name_18">Jamal Musiala</string>
+    <string name="player_team_18">Bayern Munich</string>
+    <string name="player_dob_18">2003-current</string>
+    <string name="player_fun_fact_18">Youngest goalscorer in Bayern Munich\\\'s history (17 years, 115 days)</string>
+
+    <string name="player_name_19">Mohamed Salah Ghaly</string>
+    <string name="player_team_19">Liverpool</string>
+    <string name="player_dob_19">1992-current</string>
+    <string name="player_fun_fact_19">Fastest player to score 100 Premier League goals (in 104 appearances)</string>
+
+    <string name="player_name_20">Andrés Luján</string>
+    <string name="player_team_20">Vissel Kobe</string>
+    <string name="player_dob_20">1984-current</string>
+    <string name="player_fun_fact_20">Scored winning goal for Spain in 2010 FIFA World Cup final</string>
+
+    <string name="player_name_21">Xavier Hernández Creus</string>
+    <string name="player_team_21">Al Sadd SC (manager)</string>
+    <string name="player_dob_21">1980-current</string>
+    <string name="player_fun_fact_21">Holds record for most UEFA Champions League appearances (151 games)</string>
+
+    <string name="player_name_22">Roberto Baggio</string>
+    <string name="player_team_22">Brescia</string>
+    <string name="player_dob_22">1967-current</string>
+    <string name="player_fun_fact_22">Ballon d\\\'Or winner in 1993 after leading Italy to World Cup final</string>
+
+    <string name="player_name_23">Hugo Sánchez Márquez</string>
+    <string name="player_team_23">Pumas</string>
+    <string name="player_dob_23">1958-current</string>
+    <string name="player_fun_fact_23">Held La Liga scoring record of 38 goals in a season for 21 years</string>
+
+    <string name="player_name_24">Robert Moore</string>
+    <string name="player_team_24">West Ham United</string>
+    <string name="player_dob_24">1941–1993</string>
+    <string name="player_fun_fact_24">Captained England to 1966 FIFA World Cup victory</string>
+
+    <string name="player_name_25">Johan Cruyff</string>
+    <string name="player_team_25">Ajax</string>
+    <string name="player_dob_25">1947–2016</string>
+    <string name="player_fun_fact_25">Won Ballon d\'Or 3 times, pioneered \'Total Football\' style of play</string>
+
+    <string name="player_name_26">Gerhard Müller</string>
+    <string name="player_team_26">Bayern Munich</string>
+    <string name="player_dob_26">1945–2021</string>
+    <string name="player_fun_fact_26">Held record for most goals (85) in FIFA World Cup history until 2006</string>
+
+    <string name="player_name_27">Dino Zoff</string>
+    <string name="player_team_27">Juventus</string>
+    <string name="player_dob_27">1942-current</string>
+    <string name="player_fun_fact_27">Oldest player to win a FIFA World Cup (1982, age 40)</string>
+
+    <string name="player_name_28">Paolo Rossi</string>
+    <string name="player_team_28">Juventus</string>
+    <string name="player_dob_28">1956-2020</string>
+    <string name="player_fun_fact_28">Top goalscorer and player of the tournament in 1982 FIFA World Cup</string>
+
+    <string name="player_name_29">Ronaldinho</string>
+    <string name="player_team_29">Barcelona</string>
+    <string name="player_dob_29">1980-current</string>
+    <string name="player_fun_fact_29">Won FIFA World Player of the Year award in 2004 and 2005</string>
+
+    <string name="player_name_30">Zinedine Zidane</string>
+    <string name="player_team_30">Real Madrid</string>
+    <string name="player_dob_30">1972-current</string>
+    <string name="player_fun_fact_30">Winner of Ballon d\'Or in 1998, scored winning goals in 1998 World Cup and 2002 Champions League finals</string>
+
+</resources>
