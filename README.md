@@ -1,14 +1,14 @@
-# Zen - Athan App
+# 30 Days, 30 Soccer Players
 
 ## Description
-Zen is an Android app that takes user's location and gives them accurate prayer times and qibla directions. It allows users to stay up to date on prayer times with countdowns on display and notifications.
+30 Days, 30 Soccer Players is an Android app that showcases information about famous soccer players. It allows users to view details about each player and learn interesting facts about them.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
+- [#Installation](#installation)
+- [#Usage](#usage)
 
-## Installation (Soon on Google Play!)
-To install and run the Zen app, follow these steps:
+## Installation
+To install and run the 30 Days, 30 Soccer Players app, follow these steps:
 
 1. Clone the project repository to your local machine.
 
@@ -16,32 +16,11 @@ To install and run the Zen app, follow these steps:
 
 3. Build and run the app on an Android emulator or a **physical device**.
 
-![my_logo](https://github.com/KingLiban/Zen-Athan-App/assets/113272384/0f9601ed-b1bf-4491-8a32-8f62b0e6f7bf)
-
 ## Usage
+The 30 Days, 30 Soccer Players app is easy to use. Upon launching the app, you will be presented with a list of soccer players. Click on a player's card to expand and view more details, including information about their team, date of birth, and a fun fact about them.
 
-### Startup Screen
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/48d7c190-21ef-4dea-9a10-a4bb460fa1af" width="300" height="600" />
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/edd62e81-82dc-4345-9ea0-67591f408ca4" width="300" height="600" />
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/2a3eb833-589d-45ee-8498-c1f60739f994" width="300" height="600" />
+<img width="357" alt="image" src="https://github.com/KingLiban/30SoccerPlayersApp/assets/113272384/bb505325-dca6-40e3-97b3-58871f175e9f">
 
-*Description of the startup screen.*
+Explore the details of different players, learn interesting facts, and enjoy your journey through the world of soccer.
 
-### Home Screen
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/1a771772-c4af-4b1f-80d0-1b91e87bbec0" width="300" height="600" />
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/62a9484b-59be-4f41-99f0-4f2adaebb476" width="300" height="600" />
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/7231c8aa-9874-4dde-a771-6fc473653c99" width="300" height="600" />
-
-*Description of the home screen.*
-
-### Qibla Screen
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/97823c45-a05b-45e8-9c55-b04a1e06492a" width="300" height="600" />
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/431ddebd-9788-49bb-b7f9-b89b88809f84" width="300" height="600" />
-
-*Description of the qibla screen.*
-
-### Settings Page
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/ca5e8dd7-4eff-41ca-a005-1103d6b6ca0c" width="300" height="600" />
-<img src="https://github.com/KingLiban/Zen-Athan-App/assets/113272384/56aa8f73-0470-4f44-b669-e7185dd64a97" width="300" height="600" />
-
-*Description of the settings page.*
+Made by Liban.
